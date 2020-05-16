@@ -1,0 +1,4 @@
+export const FETCH_DOG = 'FETCH_DOG';
+
+export const FETCH_SUCCEEDED = 'FETCH_SUCCEEDED';
+export const FETCH_FAILED = 'FETCH_FAILED'
